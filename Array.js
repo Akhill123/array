@@ -8,7 +8,7 @@ console.log(array)
 array.push(1122)//add element at the end array
 console.log(array)
 
-array.shift()//remove the first element
+array.shift()//remove the first element from array
 console.log(array)
 
 array.unshift("xyz")//add the new element to array at the beginning
